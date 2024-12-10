@@ -21,3 +21,5 @@ R
 Go
 Ruby
 ```
+
+You can download an x86_64 Linux binary [here](https://github.com/V-Karch/AOC-Picker/releases/)
